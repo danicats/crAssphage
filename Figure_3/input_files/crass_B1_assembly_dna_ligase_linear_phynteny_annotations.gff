@@ -1,0 +1,109 @@
+##gff-version 3
+##source-version geneious 2023.2.1
+##sequence-region	crass_B1_assembly_dna_ligase_linear_phynteny_annotations	1	96502
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	2	364	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0001
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	549	1385	.	+	.	Name=deoxynucleoside monophosphate kinase CDS;ID=CTHKPOBM_CDS_0002
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	1382	1765	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0003
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	1752	2621	.	+	.	Name=thymidylate synthase CDS;ID=CTHKPOBM_CDS_0004
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	2605	2868	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0005
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	2855	3634	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0006
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	3665	3916	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0007
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	3916	4695	.	+	.	Name=Mu Gam-like end protection CDS;ID=CTHKPOBM_CDS_0008
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	4772	4891	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0009
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	4893	5954	.	+	.	Name=integrase CDS;ID=CTHKPOBM_CDS_0010
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	5974	6642	.	+	.	Name=dUTPase CDS;ID=CTHKPOBM_CDS_0011
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	6707	6850	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0012
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	6847	7116	.	+	.	Name=thioredoxin domain CDS;ID=CTHKPOBM_CDS_0013
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	7246	7839	.	+	.	Name=thioredoxin domain CDS;ID=CTHKPOBM_CDS_0014
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	7836	8114	.	+	.	Name=thioredoxin domain CDS;ID=CTHKPOBM_CDS_0015
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	8118	8267	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0016
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	8283	8432	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0017
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	8452	8901	.	+	.	Name=anti-CRISPR protein CDS;ID=CTHKPOBM_CDS_0018
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	8911	9096	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0019
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	9131	9265	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0020
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	9268	9450	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0021
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	9437	9526	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0022
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	9660	10214	.	+	.	Name=replication initiation O-like CDS;ID=CTHKPOBM_CDS_0023
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	10299	22511	.	-	.	Name=minor head protein CDS;ID=CTHKPOBM_CDS_0024
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	22642	28515	.	-	.	Name=virion structural protein CDS;ID=CTHKPOBM_CDS_0025
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	28517	31090	.	-	.	Name=virion structural protein CDS;ID=CTHKPOBM_CDS_0026
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	31081	33654	.	-	.	Name=endolysin CDS;ID=CTHKPOBM_CDS_0027
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	33775	34569	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0028
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	34566	39077	.	-	.	Name=virion structural protein CDS;ID=CTHKPOBM_CDS_0029
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	39080	40072	.	-	.	Name=virion structural protein CDS;ID=CTHKPOBM_CDS_0030
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	39981	40943	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0031
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	40947	41669	.	-	.	Name=virion structural protein CDS;ID=CTHKPOBM_CDS_0032
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	41653	41934	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0033
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	42063	42263	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0034
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	42276	42374	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0035
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	42352	42507	.	-	.	Name=tail protein CDS;ID=CTHKPOBM_CDS_0036
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	42509	43024	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0037
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	43106	43447	.	-	.	Name=protease CDS;ID=CTHKPOBM_CDS_0038
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	43656	43985	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0039
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	44056	44631	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0040
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	44636	45022	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0041
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	45027	45542	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0042
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	45583	46353	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0043
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	46458	47561	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0044
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	47561	49246	.	-	.	Name=tail protein CDS;ID=CTHKPOBM_CDS_0045
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	49337	53221	.	-	.	Name=beta-propeller repeat protein CDS;ID=CTHKPOBM_CDS_0046
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	53225	54028	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0047
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	54081	56171	.	-	.	Name=tail protein CDS;ID=CTHKPOBM_CDS_0048
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	56174	58780	.	-	.	Name=tail collar fiber protein CDS;ID=CTHKPOBM_CDS_0049
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	58844	59371	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0050
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	59368	59607	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0051
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	59617	60150	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0052
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	60261	61124	.	-	.	Name=tail sheath CDS;ID=CTHKPOBM_CDS_0053
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	61144	61764	.	-	.	Name=virion structural protein CDS;ID=CTHKPOBM_CDS_0054
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	61845	63002	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0055
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	63028	64500	.	-	.	Name=major head protein CDS;ID=CTHKPOBM_CDS_0056
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	64520	65830	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0057
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	65837	65941	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0058
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	66040	66153	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0059
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	66173	68584	.	-	.	Name=portal protein CDS;ID=CTHKPOBM_CDS_0060
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	68603	70858	.	-	.	Name=terminase large subunit CDS;ID=CTHKPOBM_CDS_0061
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	70865	71287	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0062
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	71368	71535	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0063
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	71503	71931	.	-	.	Name=endolysin CDS;ID=CTHKPOBM_CDS_0064
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	71935	72132	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0065
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	72136	72486	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0066
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	72483	73490	.	-	.	Name=exonuclease CDS;ID=CTHKPOBM_CDS_0067
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	73587	74162	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0068
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	74146	74712	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0069
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	74830	75369	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0070
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	75379	75519	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0071
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	75550	75732	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0072
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	75733	75825	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0073
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	76036	76791	.	+	.	Name=replication initiation O-like CDS;ID=CTHKPOBM_CDS_0074
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	76800	76997	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0075
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	77108	77263	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0076
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	77335	78126	.	+	.	Name=single strand DNA binding protein CDS;ID=CTHKPOBM_CDS_0077
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	78104	78235	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0078
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	78331	78636	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0079
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	78657	78860	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0080
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	78990	79091	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0081
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	79097	79282	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0082
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	79453	79557	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0083
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	79599	79775	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0084
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	79917	80543	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0085
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	80709	80888	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0086
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	80901	81482	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0087
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	81497	81694	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0088
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	81675	81770	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0089
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	81829	82224	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0090
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	82246	82335	.	-	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0091
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	82384	82956	.	+	.	Name=transcription antiterminator CDS;ID=CTHKPOBM_CDS_0092
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	82949	83227	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0093
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	83371	83703	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0094
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	83710	84180	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0095
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	84180	85640	.	+	.	Name=Dda-like helicase CDS;ID=CTHKPOBM_CDS_0096
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	85630	86166	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0097
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	86176	88503	.	+	.	Name=DNA polymerase CDS;ID=CTHKPOBM_CDS_0098
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	88500	89885	.	+	.	Name=DNA helicase CDS;ID=CTHKPOBM_CDS_0099
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	89938	90870	.	+	.	Name=RecT-like ssDNA annealing protein CDS;ID=CTHKPOBM_CDS_0100
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	90950	91918	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0101
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	92028	93047	.	+	.	Name=single strand DNA binding protein CDS;ID=CTHKPOBM_CDS_0102
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	93154	94365	.	+	.	Name=DNA primase CDS;ID=CTHKPOBM_CDS_0103
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	94307	94735	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0104
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	94732	95292	.	+	.	Name=hypothetical protein CDS;ID=CTHKPOBM_CDS_0105
+crass_B1_assembly_dna_ligase_linear_phynteny_annotations	Geneious	CDS	95285	96502	.	+	.	Name=ATP-dependent DNA ligase CDS;ID=CTHKPOBM_CDS_0106
